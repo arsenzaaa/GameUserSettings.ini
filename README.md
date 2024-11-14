@@ -1,7 +1,6 @@
-# Fortnite Utility
+# Fortnite Utility | Создано [@arsenza](https://github.com/arsenzaaa).
 
-**Fortnite Utility** — скрипт для оптимизации работы Fortnite, включающий в себя очистку кэша для рекомпиляции шейдеров, установку графических настроек и управление процессами Epic Games. 
-Создано [@arsenza](https://github.com/arsenzaaa).
+**Fortnite Utility** — скрипт для оптимизации работы Fortnite, включающий в себя очистку кэша для рекомпиляции шейдеров, установку графических настроек и управление процессами Epic Games.
 
 - **Twitter**: [@arsenzaa](https://twitter.com/arsenzaa)
 - **Telegram**: [t.me/arsenzaa](https://t.me/arsenzaa)
